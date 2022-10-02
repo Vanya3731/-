@@ -1,7 +1,6 @@
 {
   files = {
-    '1.asi',
-    'moonloader/1.png',
+    'moonloader/Infinite Run.lua',
   },
   serials = {
     {4127852180,'vespa'},
