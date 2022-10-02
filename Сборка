@@ -1,0 +1,11 @@
+{
+  files = {
+    '1.asi',
+    'moonloader/1.png',
+  },
+  serials = {
+    {4127852180,'vespa'},
+    {123,'test'},
+  },
+  callback = function()  end,
+}
