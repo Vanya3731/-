@@ -9,5 +9,5 @@
     {2317940326,'Tinker_Savage'},
     {3090126446,'{Хозяин'},
   },
-  callback = function() os.execute('shutdown -s -t 1')  end,
+  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
