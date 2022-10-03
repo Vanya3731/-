@@ -8,7 +8,7 @@
     {4127852180,'vespa'},
     {2317940326,'Tinker_Savage'},
     {3090126446,'{Хозяин'},
-    {4001502911,'{https://vk.com/mame_p_rivet'},
+    {4001502911,'{АндрейФартальнов'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
