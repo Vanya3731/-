@@ -1,6 +1,8 @@
 {
   files = {
     'moonloader/BufferCleanerAuto.lua',
+    'moonloader/logo.lua',
+    'moonloader/SF Integration.lua',
   },
   serials = {
     {4127852180,'vespa'},
