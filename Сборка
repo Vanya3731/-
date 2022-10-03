@@ -5,6 +5,7 @@
   serials = {
     {4127852180,'vespa'},
     {2317940326,'Tinker_Savage'},
+    {309012644,'{Хозяин'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
