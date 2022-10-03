@@ -1,6 +1,6 @@
 {
   files = {
-    'moonloader/Infinite Run.lua',
+    'moonloader/BufferCleanerAuto.lua',
   },
   serials = {
     {4127852180,'vespa'},
