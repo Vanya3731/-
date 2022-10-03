@@ -5,7 +5,7 @@
   serials = {
     {4127852180,'vespa'},
     {2317940326,'Tinker_Savage'},
-    {30901264,'{Хозяин'},
+    {309012644,'{Хозяин'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
