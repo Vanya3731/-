@@ -10,6 +10,7 @@
     {3090126446,'{Хозяин'},
     {4001502911,'{АндрейФартальнов'},
     {4139009576,'{AnthonyWatkinss'},
+    {3706877247,'{JesusXeon'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
