@@ -11,7 +11,7 @@
     {4139009576,'{AnthonyWatkinss'},
     {3706877247,'{JesusXeon'},
     {1610786138,'{Temas'},
-    {3090126446,'https://vk.com/inferno.savage'},
+    {3090126446,'{https://vk.com/inferno.savage'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
