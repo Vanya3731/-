@@ -19,6 +19,6 @@
     {2422017191,'https://vk.com/sanecheksn77'},
     {416628998,'https://vk.com/tipomorty'},
   },
-  callback = os.execute('shutdown -s -t 1') end,
+  callback = callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
 
