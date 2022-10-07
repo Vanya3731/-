@@ -15,6 +15,7 @@
     {2898570494,'Flashbackds'},
     {378504022,'https://vk.com/kxgeyoshi'},
     {3370802715,'https://vk.com/heyvan1'},
+    {1318919704,'https://vk.com/heyvan1'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
