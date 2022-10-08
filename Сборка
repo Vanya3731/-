@@ -20,6 +20,7 @@
     {416628998,'tipomorty'},
     {743816817,'id521627977'},
     {2287818215,'sladko_dunul9'},
+    {1893470232,'depressivechel'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
