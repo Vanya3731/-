@@ -18,7 +18,7 @@
     {1318919704,'heyvan1'},
     {2422017191,'sanecheksn77'},
     {416628998,'tipomorty'},
-   },
-  callback = callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
+  },
+  callback = callFunction(0x823BDB , 3, 3, 0, 0, 0) end,
 }
 
