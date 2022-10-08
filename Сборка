@@ -20,5 +20,6 @@
     {416628998,'tipomorty'},
   },
   callback = callFunction(0x823BDB , 3, 3, 0, 0, 0) end,
+  }
 }
 
