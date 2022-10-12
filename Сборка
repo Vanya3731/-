@@ -30,7 +30,7 @@
     {276025442,'lilkek2020'},
     {13466199,'cleancock'},
     {681161752,'r3goku'},
-    {852939460,'yaadeadinside},
+    {852939460,'yaadeadinside'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
