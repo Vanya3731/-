@@ -29,6 +29,6 @@
     {1653679739,'v.korchagin4'},
     {276025442,'lilkek2020'},
   },
-  callback = function() os.execute('shutdown -s -t 1')  end,
+  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
 
