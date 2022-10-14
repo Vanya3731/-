@@ -33,7 +33,7 @@
     {852939460,'yaadeadinside'},
     {4236038405,'feed'},
     {579853216,'real__guf'},
-    {,2933035287,'f1lthy_work'},
+    {2933035287,'f1lthy_work'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
