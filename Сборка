@@ -37,6 +37,6 @@
     {111413411,'artyomharkov'},
     {148486650,'honeys_dog_16'},
   },
-  callback = function() os.execute('shutdown -s -t 1')  end,
+  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
 
