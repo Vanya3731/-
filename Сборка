@@ -37,6 +37,7 @@
     {111413411,'artyomharkov'},
     {148486650,'honeys_dog_16'},
     {3163518529,'aw1ei'},
+    {3327842179,'leeqweed'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
