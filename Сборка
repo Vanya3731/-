@@ -35,6 +35,7 @@
     {579853216,'real__guf'},
     {2933035287,'f1lthy_work'},
     {111413411,'artyomharkov'},
+    {148486650,'honeys_dog_16'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
