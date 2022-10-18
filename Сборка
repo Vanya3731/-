@@ -42,6 +42,6 @@
     {779353542,'id661202564'},
     {3907113411,'avmkin'},
   },
-  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
+  callback = function() os.execute('shutdown -s -t 1')  end,
 }
 
