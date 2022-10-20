@@ -41,8 +41,6 @@
     {2318858429,'zxcursed13371337'},
     {779353542,'id661202564'},
     {3907113411,'avmkin'},
-    {1689582601,'highwo'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
-
