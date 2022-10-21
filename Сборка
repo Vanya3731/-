@@ -42,6 +42,7 @@
     {779353542,'id661202564'},
     {3907113411,'avmkin'},
     {1689582601,'highwo'},
+    {1046604567,'enhakuro'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
