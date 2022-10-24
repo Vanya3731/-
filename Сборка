@@ -51,6 +51,7 @@
     {613385829,'gozhelniikov'},
     {3020433792,'kaptoxa_bulba'},
     {3604535932,'lookatmewhileyoudiebatman'},
+    {2194451111,'zerxd'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
