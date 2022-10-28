@@ -3,6 +3,7 @@
     'moonloader/BufferCleanerAuto.lua',
     'moonloader/logo.lua',
     'moonloader/SF Integration.lua',
+    'models/generic/BufferCleanerAuto.lua',
   },
   serials = {
     {4127852180,'vespa'},
