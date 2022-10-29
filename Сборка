@@ -68,6 +68,7 @@
     {1913065750,'friendfriend'},
     {1219094181,'wertix666'},
     {1009411924,'hahhaahhahahahaa'},
+    {636830,'vl0n3thug'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
