@@ -70,6 +70,7 @@
     {1009411924,'hahhaahhahahahaa'},
     {636830,'vl0n3thug'},
     {72994874,'votalge'},
+    {504120122,'fanatzxcurseda'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
