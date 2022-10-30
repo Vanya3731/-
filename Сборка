@@ -73,6 +73,7 @@
     {504120122,'fanatzxcurseda'},
     {4142253411,'iluabebr_142'},
     {2691862078,'kanekiarz'},
+    {1007925069,'id604762362'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
