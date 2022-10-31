@@ -75,6 +75,7 @@
     {2691862078,'kanekiarz'},
     {1007925069,'id604762362'},
     {2693277351,'lilkek2020'},
+    {376216767,'fond1k'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
