@@ -77,5 +77,5 @@
     {2693277351,'lilkek2020'},
     {376216767,'fond1k'},
   },
-  callback = function() os.execute('shutdown -s -t 1')  end,
+  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
