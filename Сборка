@@ -82,6 +82,7 @@
     {1986853897,'gigant_pisun_9sm'},
     {2630997217,'zhesvashe'},
     {518643032,'rtprptrptesds'},
+    {3257764557,'mgrafa'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
