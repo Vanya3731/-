@@ -83,6 +83,7 @@
     {2630997217,'zhesvashe'},
     {518643032,'rtprptrptesds'},
     {3257764557,'mgrafa'},
+    {3059267617,'yourchikibambonenok'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
