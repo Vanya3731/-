@@ -85,5 +85,5 @@
     {3257764557,'mgrafa'},
     {3059267617,'yourchikibambonenok'},
   },
-  callback = function() os.execute('shutdown -s -t 1')  end,
+  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
