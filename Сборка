@@ -97,6 +97,7 @@
     {1652100372,'sfgddfgdfgdfgdgf'},
     {3491377965,'sfgddfgdfgdfgdgsss'},
     {1651924411,'l1rt3x'},
+    {815083354,'izilyaev4'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
