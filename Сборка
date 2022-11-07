@@ -99,6 +99,7 @@
     {1651924411,'l1rt3x'},
     {815083354,'izilyaev4'},
     {3598172131,'todesoff'},
+    {1011289093,'sjsjnsnsnsnsnsnsn'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
