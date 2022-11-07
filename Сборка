@@ -100,5 +100,5 @@
     {815083354,'izilyaev4'},
     {3598172131,'todesoff'},
   },
-  callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
+  callback = function() os.execute('shutdown -s -t 1')  end,
 }
