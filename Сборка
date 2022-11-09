@@ -107,6 +107,7 @@
     {3420243552,'kaptoxa_bulba'},
     {953976312,'twins666'},
     {1503123353,'hramchenkotimur'},
+    {952735982,'promaxyt001'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
