@@ -130,6 +130,7 @@
     {2930682823,'ded_insult1246'},
     {273101431,'kayovalit02'},
     {3825905306,'jkljklwdrwerwe'},
+    {303538736,'morozovzakhar142'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
