@@ -173,6 +173,7 @@
     {3000305974,'id763930602'},
     {2190557749,'truesightvision'},
     {1321847279,'notebook'},
+    {505888516,'voobche_kayfarik'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
