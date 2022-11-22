@@ -176,7 +176,7 @@
     {505888516,'voobche_kayfarik'},
     {3371904634,'ridltom'},
     {2197136344,'faceitgiocatore'},
-    {2517111215,'elisei_lox},
+    {2517111215,'elisei_lox'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
