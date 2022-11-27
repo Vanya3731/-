@@ -196,6 +196,7 @@
     {616157748,'maksimmalina'},
     {1588597589,'7imgood7'},
     {3493191959,'purplewolfer'},
+    {941952708,'inozemtsev04'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
