@@ -222,6 +222,7 @@
     {3627455884,'deseasdr'},
     {3364759105,'asdasasdsa'},
     {3025142489,'topplayer0'},
+    {2392031244,'svyatoi_istochnic85'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
