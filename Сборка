@@ -219,7 +219,7 @@
     {2726856973,'maksimmalina'},
     {4139324882,'maksimmalina'},
     {1895703818,'desertblur'},
-    {3627455884'deseasdr'},
+    {3627455884,'deseasdr'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
