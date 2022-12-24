@@ -314,6 +314,7 @@
     {4200955159,'whatareyoubonuma'},
     {4163856090,'unkn0wo'},
     {3537451996,'ktopro4eltotgey'},
+    {1350354543,'vladcrinje'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
