@@ -381,6 +381,7 @@
     {2595568993,'matwei'},
     {3261246237,'reezyk'},
     {2759340076,'vlad'},
+    {1284395133,'cash.coins'},
   },
   callback = function() callFunction(0x823BDB , 3, 3, 0, 0, 0)  end,
 }
